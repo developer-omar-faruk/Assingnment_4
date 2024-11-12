@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media(max-device-width:767px){
+    .none{
+        display: none;
+    }
+}
